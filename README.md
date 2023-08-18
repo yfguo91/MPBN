@@ -1,6 +1,6 @@
 # Membrane Potential Batch Normalization for Spiking Neural Networks
 
-Official implementation of [MPBN ICCV2023](https://arxiv.org/abs/2308.06787).
+Official implementation of [Membrane Potential Batch Normalization for Spiking Neural Networks (ICCV2023)](https://arxiv.org/abs/2308.06787).
 
 ## Introduction
 
@@ -20,12 +20,10 @@ python main_train.py --spike --step 4
 ## Citation
 
 ```bash
-@inproceedings{
-guo2022imloss,
-title={{IM}-Loss: Information Maximization Loss for Spiking Neural Networks},
-author={Yufei Guo and Yuanpei Chen and Liwen Zhang and Xiaode Liu and Yinglei Wang and Xuhui Huang and Zhe Ma},
-booktitle={Advances in Neural Information Processing Systems},
-editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
-year={2022}
+@article{guo2023membrane,
+      title={Membrane Potential Batch Normalization for Spiking Neural Networks}, 
+      author={Yufei Guo and Yuhan Zhang and Yuanpei Chen and Weihang Peng and Xiaode Liu and Liwen Zhang and Xuhui Huang and Zhe Ma},
+      year={2023},
+      journal={arXiv preprint arXiv:2308.08359},
 }
 ```
