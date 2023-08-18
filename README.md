@@ -1,6 +1,6 @@
 # Membrane Potential Batch Normalization for Spiking Neural Networks
 
-Official implementation of [Membrane Potential Batch Normalization for Spiking Neural Networks (ICCV2023)](https://arxiv.org/abs/2308.06787).
+Official implementation of [Membrane Potential Batch Normalization for Spiking Neural Networks (ICCV2023)](https://arxiv.org/pdf/2308.08359.pdf).
 
 ## Introduction
 
